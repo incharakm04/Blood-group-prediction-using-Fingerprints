@@ -34,28 +34,10 @@ Folder Structure
 
 blood_group_prediction/
 
- │── data/
+    ├── data/
 
-  ├── train/
+    ├── BloodGroup_ResNet50.ipynb
 
-   ├── A+/
+    ├── README.md
 
-   ├── B+/
-
-   ├── ...
-
-  ├── test/
-
-   ├── A+/
-   
-   ├── B+/
-
-   ├── ...
-
-├── BloodGroup_ResNet50.ipynb
-
-
-
-│── README.md
-
-│── requirements.txt
+    ├── requirements.txt
