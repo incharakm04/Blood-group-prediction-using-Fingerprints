@@ -20,17 +20,23 @@ O+
 
 O-
 
-🚀 Features
+**🚀 Features**
 
 ✔ Predict blood group from fingerprint images
+
 ✔ Uses powerful pretrained ResNet50 for feature extraction
+
 ✔ Custom CNN layers for classification
+
 ✔ Image preprocessing with augmentation
+
 ✔ Model evaluation and classification report
+
 ✔ Single-image prediction with confidence score
+
 ✔ Well-structured training + testing pipeline
 
-Folder Structure
+**Folder Structure**
 
 blood_group_prediction/
 
