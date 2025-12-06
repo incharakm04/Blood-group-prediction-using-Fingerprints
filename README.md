@@ -33,23 +33,29 @@ O-
 Folder Structure
 
 blood_group_prediction/
+
 │── data/
+
 │   ├── train/
+
 │   │    ├── A+/
+
 │   │    ├── B+/
+
 │   │    ├── ...
+
 │   ├── test/
+
 │       ├── A+/
+
 │       ├── B+/
+
 │       ├── ...
+
+├── BloodGroup_ResNet50.ipynb
+
 │
-│── notebook/
-│   ├── BloodGroup_ResNet50.ipynb
-│
-│── src/
-│   ├── model.py
-│   ├── preprocess.py
-│   ├── predict.py
-│
+
 │── README.md
+
 │── requirements.txt
